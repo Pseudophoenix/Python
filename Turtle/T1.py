@@ -1,0 +1,15 @@
+import turtle
+tur=turtle.Turtle()
+tur.screen.bgcolor("Black")
+tur.screen.bgcolor("red")
+tur.color("white")
+#tur.hideturtle()
+#tur.screen.bgpic("image (14).gif")
+#image must be in gif format
+tur.shape("turtle")
+tur.shapesize(2)
+tur.setheading(90)
+tur.pensize(8)
+tur.forward(100)
+tur.setheading(180)
+tur.forward(100)
